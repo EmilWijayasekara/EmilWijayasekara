@@ -26,7 +26,8 @@
 <p align="center"> 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emilwijayasekara&theme=onedark" alt="emilwijayasekara" /></p>
 <p align="center">  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilwijayasekara&show_icons=true&locale=en&layout=compacttheme=onedark" alt="emilwijayasekara"/></p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="emilwijayasekara" />
+</p>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emilwijayasekara&theme=onedark" alt="emilwijayasekara" /></a> </p>  
