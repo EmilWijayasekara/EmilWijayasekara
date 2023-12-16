@@ -24,7 +24,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="xd" width="40" height="40"/> 
 </p>  
 <p align="center"> 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emilwijayasekara&" alt="emilwijayasekara" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emilwijayasekara&theme=onedark" alt="emilwijayasekara" /></p>
 <p align="center">  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilwijayasekara&show_icons=true&locale=en&layout=compact" alt="emilwijayasekara"/></p>
 
