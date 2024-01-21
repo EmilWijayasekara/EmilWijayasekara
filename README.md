@@ -1,13 +1,13 @@
 <p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=5DF700&random=false&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Emil+Wijayasekara"/>
 </p>  
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilwijayasekara&label=Profile%20views&color=0e75b6&style=flat" alt="emilwijayasekara" /> </p>  
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
-</p>  
-  
+ 
 <h3 align="left">Languages and Tools:</h3> 
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="c" width="40" height="40"/> 
