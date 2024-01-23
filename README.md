@@ -3,7 +3,7 @@
 </p>  
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/EmilWijayasekara/EmilWijayasekara/main/pic2.gif"/>
+<img src="https://raw.githubusercontent.com/EmilWijayasekara/EmilWijayasekara/main/pic1.gif"/>
 </p>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilwijayasekara&label=Profile%20views&color=blueviolet&style=flat" alt="emilwijayasekara" /> </p>  
