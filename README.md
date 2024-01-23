@@ -32,7 +32,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="xd" width="40" height="40"/> 
 </p>  
 <p align="center"> 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emilwijayasekara&theme=github_dark" alt="emilwijayasekara" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EmilWijayasekara&theme=midnight-purple&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&background=0D1117" alt="GitHub Streak" /></a>
 <p align="center">  
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilwijayasekara&layout=compact&theme=github_dark" alt="emilwijayasekara" />
 </p>
