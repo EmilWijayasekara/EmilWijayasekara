@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/EmilWijayasekara/EmilWijayasekara/main/pic2.gif"/>
 </p>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emilwijayasekara&label=Profile%20views&color=0e75b6&style=flat" alt="emilwijayasekara" /> </p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emilwijayasekara&label=Profile%20views&color=blueviolet&style=flat" alt="emilwijayasekara" /> </p>  
  
 <h3 align="left">Languages and Tools:</h3> 
 <p align="center"> 
