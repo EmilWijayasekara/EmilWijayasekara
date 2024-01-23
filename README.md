@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/EmilWijayasekara/EmilWijayasekara/main/pic2.gif"/>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=23&pause=1000&color=F544FC&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Emil+Wijayasekara" alt="Typing SVG" /></a>
+</p>  
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=5DF700&random=false&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Emil+Wijayasekara"/>
-</p>  
+<img src="https://raw.githubusercontent.com/EmilWijayasekara/EmilWijayasekara/main/pic2.gif"/>
+</p>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilwijayasekara&label=Profile%20views&color=0e75b6&style=flat" alt="emilwijayasekara" /> </p>  
  
