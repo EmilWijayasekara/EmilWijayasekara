@@ -19,6 +19,8 @@
 
 - 🎓 Final-year Computer Science student at the University of Sri Jayewardenepura.
 - 💡 Passionate about computer hardware, troubleshooting, data privacy strong interest in **cybersecurity**
+- 🎯 Highly motivated to learn and explore new tech and solve problems
+- 📚 Currently learning C# and .NET
 
 ---
 
