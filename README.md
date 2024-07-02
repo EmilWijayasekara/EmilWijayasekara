@@ -11,13 +11,7 @@
 <h3 align="left">Languages and Tools:</h3> 
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,c,cs,dotnet,js,ts,py,mysql&perline=10" />
-    <br>
-   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,vercel&perline=10" />
-    <br>
-   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,clion,pycharm,eclipse&perline=10" />
-   <br>
-   <img src="https://skillicons.dev/icons?i=windows,ubuntu,mint&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,c,cs,dotnet,js,ts,py,mysql,html,css,bootstrap,tailwind,react,nextjs,vercel,vscode,visualstudio,idea,clion,pycharm,eclipse,windows,ubuntu,mint,arduino,aws&perline=10" />
 </p>
  
 </p>  
