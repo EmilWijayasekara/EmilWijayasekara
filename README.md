@@ -11,13 +11,16 @@
 <h3 align="left">Languages and Tools:</h3> 
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,c,cs,dotnet,js,ts,py&perline=10" />
-   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,c,cs,dotnet,js,ts,py,mysql&perline=10" />
+    <br>
+   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,vercel&perline=10" />
+    <br>
+   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,clion,pycharm,eclipse&perline=10" />
+   <br>
+   <img src="https://skillicons.dev/icons?i=windows,ubuntu,mint&perline=10" />
 </p>
  
 </p>  
 <p align="center"> 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EmilWijayasekara&theme=midnight-purple&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&background=0D1117" alt="GitHub Streak" /></a>
 <p align="center">  
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilwijayasekara&layout=compact&theme=github_dark" alt="emilwijayasekara" />
-</p>
