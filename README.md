@@ -9,6 +9,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilwijayasekara&label=Profile%20views&color=blueviolet&style=flat" alt="emilwijayasekara" /> </p>  
  
 <h3 align="left">Languages and Tools:</h3> 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,cs,dotnet,mysql,html,css,bootstrap,tailwind,git,github,aws,arduino,js,ts,py&perline=10" />
+  </a>
+</p>
  
 </p>  
 <p align="center"> 
