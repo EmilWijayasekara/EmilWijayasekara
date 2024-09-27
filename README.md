@@ -38,3 +38,5 @@
     <img src="https://streak-stats.demolab.com?user=EmilWijayasekara&theme=midnight-purple&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&background=0D1117" alt="GitHub Streak" />
   </a>
 </p>
+
+[![An image of @emil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/emil)](https://holopin.io/@emil)
