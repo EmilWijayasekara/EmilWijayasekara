@@ -1,4 +1,5 @@
 
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=23&pause=1000&color=F544FC&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Emil+Wijayasekara" alt="Typing SVG" />
@@ -38,5 +39,7 @@
     <img src="https://streak-stats.demolab.com?user=EmilWijayasekara&theme=midnight-purple&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&background=0D1117" alt="GitHub Streak" />
   </a>
 </p>
+
+<img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest-11--footer.cc639da3.svg" alt="drawing" width="200"/> 
 
 [![An image of @emil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/emil)](https://holopin.io/@emil)
