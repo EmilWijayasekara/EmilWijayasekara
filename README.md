@@ -39,7 +39,3 @@
     <img src="https://streak-stats.demolab.com?user=EmilWijayasekara&theme=midnight-purple&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&background=0D1117" alt="GitHub Streak" />
   </a>
 </p>
-
-<img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest-11--footer.cc639da3.svg" alt="drawing" width="200"/> 
-
-[![An image of @emil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/emil)](https://holopin.io/@emil)
